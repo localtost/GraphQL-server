@@ -1,0 +1,1 @@
+export const prodMode : boolean = process.env.NODE_ENV === 'production';
